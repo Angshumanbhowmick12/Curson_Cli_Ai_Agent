@@ -1,0 +1,14 @@
+.container {
+    width: 400px;
+    margin-top: 50px;
+}
+
+.result-box {
+    margin-bottom: 10px;
+    font-size: 24px;
+    text-align: right;
+}
+
+.btn-block {
+    margin-bottom: 5px;
+}
